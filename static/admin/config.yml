@@ -2,7 +2,7 @@
 # calculon.tech, the forge (which signs in through Vault), and commits to main.
 backend:
   name: gitea
-  repo: ananthb/shakthipalace.com
+  repo: calculon-tech/shakthipalace.com
   branch: main
   base_url: https://calculon.tech
   api_root: https://calculon.tech/api/v1
